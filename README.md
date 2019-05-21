@@ -13,4 +13,4 @@ Do take note if the Colab notebook is left unattended for 90 minutes, the instan
 
 1. [Download and install Anaconda](https://www.anaconda.com/distribution/#download-section): choose the **Python 3.7, 64-bit** version for your operating system (macOS, Linux, or Windows).
 
-2. 
+2. Open a terminal (```cmd``` on Windows).
