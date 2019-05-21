@@ -9,7 +9,7 @@ With [Google Colab](https://colab.research.google.com/), the notebooks can be ru
 
 Do take note if the Colab notebook is left unattended for 90 minutes, the instance is automatically terminated. For more information on Google Colab, here's the link to the [FAQ](https://research.google.com/colaboratory/faq.html). 
 
-## Running the code using Jupyter Notebook on your local machine
+## Running the code using Jupyter Notebook on your local machine **Optional**
 
 1. [Download and install Anaconda](https://www.anaconda.com/distribution/#download-section): choose the **Python 3.7, 64-bit** version for your operating system (macOS, Linux, or Windows).
 
