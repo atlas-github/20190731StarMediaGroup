@@ -21,9 +21,10 @@ Do take note if the Colab notebook is left unattended for 90 minutes, the instan
 $ git clone https://github.com/atlas-github/20190731SMG.git
 
 $ cd 20190731SMG
-
 ```
 
 4. Launch the [Jupyter Notebook](https://jupyter.org/install.html):
 
-```$ jupyter notebook```
+```
+$ jupyter notebook
+```
