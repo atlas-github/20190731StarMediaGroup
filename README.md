@@ -1,4 +1,4 @@
-# Code of the Python workshop (31 July 2019)
+# Code from Python workshop (31 July 2019)
 This repository contains the notebooks of the 5 sections covered during the workshop which have been sourced from multiple books. 
 
 This repository is read-only. The notebooks can be opened using Google Colab. 
